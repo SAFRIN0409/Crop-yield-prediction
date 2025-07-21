@@ -83,7 +83,7 @@ pip install -r requirements.txt
 
 ## 📸 App Preview
 
-st.image(""C:\Users\Safrin\Pictures\Screenshots\Screenshot 2025-07-21 102114.png"", width=150, caption="Created by SAFRIN M")
+<img width="1904" height="1144" alt="Screenshot 2025-07-21 102114" src="https://github.com/user-attachments/assets/e5d992b1-f7c9-48f5-8418-919439ea731d" />
 
 ---
 
@@ -91,4 +91,4 @@ st.image(""C:\Users\Safrin\Pictures\Screenshots\Screenshot 2025-07-21 102114.png
 
 SAFRIN M  
 Built with ❤️ using Python & Streamlit  
-Connect on [https://www.linkedin.com/in/safrin0409](https://www.linkedin.com/) | [GitHub](https://github.com/SAFRIN0409)
+Connect on [https://www.linkedin.com/in/safrin0409] | [https://github.com/SAFRIN0409]
